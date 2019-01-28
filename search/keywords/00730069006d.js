@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sim",["Variable","Property","Class"],[["simConfig",,[[,,,,0,"File:js/traineeview.js:simConfig"]]],["simState",,[["Lesson",,,,1,"File:php/domain.php:Lesson.simState","PHPClass:Lesson:simState"]]],["simTime",,[[,,,,0,"File:js/ecg-calculation.js:simTime"]]],["SimulationState",,[[,,,,2,"File:php/domain.php:SimulationState","PHPClass:SimulationState"]]]]);

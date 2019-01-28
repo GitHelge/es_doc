@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("old",["Variable"],[["oldConfig",,[[,,,,0,"File:js/traineeview.js:oldConfig"]]],["oldETCO2",,[[,,,,0,"File:js/etco2-calculation.js:oldETCO2"]]],["oldNIBP",,[[,,,,0,"File:js/spo2-calculation.js:oldNIBP"]]],["oldRR",,[[,,,,0,"File:js/etco2-calculation.js:oldRR"]]]]);

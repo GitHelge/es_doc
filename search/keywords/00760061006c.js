@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("val",["Property","Variable"],[["value",,[["ChangeDuration",,,,0,"File:php/domain.php:ChangeDuration.value","PHPClass:ChangeDuration:value"]]],["valueDifference",,[[,,,,1,"File:js/vital-sign-graph.js:valueDifference"]]]]);

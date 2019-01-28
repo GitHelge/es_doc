@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("res",["Function","Variable","Property"],[["resetTimer",,[[,,,,0,"File:js/trainerview.js:resetTimer"]]],["respRatio",,[[,,,,1,"File:js/etco2-calculation.js:respRatio"],["SimulationState",,,,2,"File:php/domain.php:SimulationState.respRatio","PHPClass:SimulationState:respRatio"]]]]);
